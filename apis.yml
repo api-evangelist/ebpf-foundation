@@ -1,0 +1,44 @@
+aid: ebpf-foundation
+name: eBPF Foundation
+description: >-
+  The eBPF Foundation is a Linux Foundation project that advances eBPF technology by guiding upstream development, promoting its benefits, and enhancing its security and reliability. eBPF enables programmable kernel functionality for networking, observability, tracing, and security without changing kernel source code.
+type: Index
+position: Consumer
+access: 3rd-Party
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Kernel
+  - Networking
+  - Security
+  - Linux Foundation
+created: '2026-03-16'
+modified: '2026-03-16'
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ebpf-foundation/refs/heads/main/apis.yml
+specificationVersion: '0.19'
+apis:
+  - aid: ebpf-foundation:ebpf-foundation-api
+    name: eBPF Foundation API
+    description: >-
+      Programmatic access to eBPF Foundation tools, kernel programmability APIs, and observability resources.
+    humanURL: https://ebpf.io/what-is-ebpf/
+    tags:
+  - Kernel
+  - Networking
+  - Security
+  - Linux Foundation
+    properties:
+      - type: Documentation
+        url: https://ebpf.io/what-is-ebpf/
+common:
+  - type: Documentation
+    name: eBPF Foundation Documentation
+    description: Official documentation for eBPF Foundation.
+    url: https://ebpf.io/what-is-ebpf/
+  - type: GitHubOrg
+    name: eBPF Foundation GitHub
+    description: Source code and repositories for eBPF Foundation.
+    url: https://github.com/ebpf-io
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
