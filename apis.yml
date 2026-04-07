@@ -23,10 +23,10 @@ apis:
       Programmatic access to eBPF Foundation tools, kernel programmability APIs, and observability resources.
     humanURL: https://ebpf.io/what-is-ebpf/
     tags:
-  - Kernel
-  - Networking
-  - Security
-  - Linux Foundation
+      - Kernel
+      - Networking
+      - Security
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://ebpf.io/what-is-ebpf/
