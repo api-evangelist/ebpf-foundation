@@ -23,6 +23,8 @@ modified: '2026-04-28'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/ebpf-foundation
   - type: Website
     url: https://ebpf.foundation/
   - type: About
