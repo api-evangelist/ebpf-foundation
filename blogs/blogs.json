@@ -2,8 +2,8 @@
   "repo": "ebpf-foundation",
   "feeds": [
     {
-      "source": "https://ebpf.foundation/blog/feed/",
-      "feed_url": "https://ebpf.foundation/blog/feed/",
+      "source": "https://ebpf.foundation/feed/",
+      "feed_url": "https://ebpf.foundation/feed/",
       "title": "",
       "saved": 0,
       "method": "feed"
@@ -12,10 +12,10 @@
       "source": "https://ebpf.foundation/events/",
       "feed_url": "https://ebpf.foundation/feed/",
       "title": "",
-      "saved": 1,
+      "saved": 0,
       "method": "discovered"
     }
   ],
   "post_count": 11,
-  "fetched": "2026-06-01T23:35:02Z"
+  "fetched": "2026-06-14T20:42:17Z"
 }
