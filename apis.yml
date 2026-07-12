@@ -23,6 +23,8 @@ modified: '2026-04-28'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/ebpf-foundation-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/ebpf-foundation
   - type: Website
