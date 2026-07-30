@@ -8,9 +8,20 @@ description: >-
   itself does not operate a public API; it stewards the technology and community.
 url: https://raw.githubusercontent.com/api-evangelist/ebpf-foundation/refs/heads/main/apis.yml
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 position: Open Source
 access: Open
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ebpf-foundation.png
 tags:
   - eBPF
   - Kernel
