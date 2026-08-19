@@ -31,7 +31,7 @@ tags:
   - Security
 created: '2026-03-16'
 modified: '2026-04-28'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
