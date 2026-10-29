@@ -1,4 +1,4 @@
-# eBPF Foundation (ebpf-foundation)
+# eBPF Foundation
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,45 +66,78 @@
 
 The eBPF Foundation is a Linux Foundation project that advances eBPF technology by guiding upstream development, promoting its benefits, and enhancing its security and reliability. eBPF enables programmable kernel functionality for networking, observability, tracing, and security without changing kernel source code. The Foundation itself does not operate a public API; it stewards the technology and community.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ebpf-foundation/refs/heads/main/apis.yml)
+**Areas:** eBPF · Kernel · Linux Foundation · Networking · Observability · Security
 
-## Scope
+## eBPF Foundation on APIs.io
 
-- **Type:** Index
-- **Position:** Open Source
-- **Access:** Open
+Everything profiled for eBPF Foundation is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ebpf-foundation/](https://apis.io/providers/ebpf-foundation/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - eBPF, Kernel, Linux Foundation, Networking, Observability, Security
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Ebpf Foundation Domain Security](https://apis.io/security/ebpf-foundation/ebpf-foundation-domain-security/)
 
-The eBPF Foundation is a stewardship organization and does not operate its own programmable API. The technology it governs is documented under the [eBPF](../ebpf) standard.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://ebpf.foundation/)
-- [About](https://ebpf.foundation/about/)
-- [Members](https://ebpf.foundation/members/)
-- [Governance](https://ebpf.foundation/governance/)
-- [Charter](https://github.com/ebpffoundation/foundation)
-- [Steering Committee](https://github.com/ebpffoundation/bsc)
-- [Publications](https://github.com/ebpffoundation/publications)
-- [Landscape](https://github.com/ebpffoundation/landscape)
-- [Events](https://ebpf.foundation/events/)
 - [Blog](https://ebpf.foundation/blog/)
-- [GitHub Org](https://github.com/ebpffoundation)
-- [eBPF Community](https://ebpf.io/)
-- [eBPF Documentation](https://docs.ebpf.io/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** info@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ebpf-foundation/](https://apis.io/providers/ebpf-foundation/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for eBPF Foundation: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ebpf-foundation/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
